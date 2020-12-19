@@ -15,7 +15,7 @@ Before joining PAVIS, I completed the BS in Information Engineering and the MS i
 ## News
 
 - **[Dec 2020]** The personal page is online!
-- **[Nov 2020]** Starting the PhD programme with Istituto Italiano Technologia in the [VGM Lab](https://vgm.iit.it/) 
+- **[Nov 2020]** Starting the PhD programme with Istituto Italiano di Technologia in the [VGM Lab](https://vgm.iit.it/) 
 
 
 
