@@ -3,14 +3,14 @@ layout: homepage
 ---
 
 I am a PhD student at the [Italian Institute of Technology (IIT)](https://iit.it).  
-I am part of [PAVIS](https://pavis.iit.it/) - [VGM Lab](https://vgm.iit.it/), advised from dr. [Alessio Del Bue](https://www.iit.it/it/people/alessio-delbue).
+I am part of [PAVIS](https://pavis.iit.it/) - [VGM Lab](https://vgm.iit.it/), advised by dr. [Alessio Del Bue](https://www.iit.it/it/people/alessio-delbue).
 
 Before joining PAVIS, I completed the BS in Information Engineering and the MS in Computer Engineering at [University of Padova](http://unipd.it). During my master thesis I investigated Multi-task learning under Prof. [A. Chiuso](http://automatica.dei.unipd.it/people/chiuso.html).  
 <br>
 [CV](./assets/files/dt_resume.pdf) / [Twitter](https://twitter.com/davidetalon94)
 
 ## Research interests
-- **Machine Learning:** deep learning, representation learning, transfer learning, generalization. 
+- **Machine Learning:** deep learning, representation learning, transfer learning, reasoning, generalization. 
 
 ## News
 
