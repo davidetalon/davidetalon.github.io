@@ -16,6 +16,7 @@ Before joining PAVIS, I completed the BS in Information Engineering and the MS i
 
 - **[Dec 2020]** The personal page is online!
 - **[Nov 2020]** Starting the PhD programme with Istituto Italiano di Technologia in the [PAVIS Lab](https://pavis.iit.it/) 
+- **[Apr 2022]** I gave a talk about Causality and Disentanglement to my group, [slides](./assets/files/20220413_causality_brainstorming.pdf) are available
 
 
 
