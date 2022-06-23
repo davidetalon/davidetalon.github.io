@@ -2,8 +2,8 @@
 layout: homepage
 ---
 
-I am a PhD student at the [Italian Institute of Technology (IIT)](https://iit.it).  
-I am part of [PAVIS](https://pavis.iit.it/), advised by dr. [Alessio Del Bue](https://www.iit.it/it/people/alessio-delbue).
+I am a PhD student at the [Italian Institute of Technology (IIT)](http://iit.it).  
+I am part of [PAVIS](https://pavis.iit.it/), advised by dr. [Alessio Del Bue](http://www.iit.it/it/people/alessio-delbue).
 
 Before joining PAVIS, I completed the BS in Information Engineering and the MS in Computer Engineering at [University of Padova](http://unipd.it). During my master thesis I investigated Multi-task learning under Prof. [A. Chiuso](http://automatica.dei.unipd.it/people/chiuso.html).  
 <br>
