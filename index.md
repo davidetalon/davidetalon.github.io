@@ -14,6 +14,7 @@ Before joining PAVIS, I completed the BS in Information Engineering and the MS i
 
 ## News
 
+- **[Jun 2022]** Our work "GANzzle: Reframing jigsaw puzzle solving as a retrieval task using a generative mental image" has been accepted to ICIP 2022.
 - **[Apr 2022]** I gave a talk about Causality and Disentanglement to my group, [slides](./assets/files/20220413_causality_brainstorming.pdf) are available
 - **[Nov 2021]** Joined the causality reading group @TU-Darmstadt
 - **[Dec 2020]** The personal page is online!
@@ -22,6 +23,9 @@ Before joining PAVIS, I completed the BS in Information Engineering and the MS i
 
 
 ## Publications
+- **GANzzle: Reframing jigsaw puzzle solving as a retrieval task using a generative mental image**,  
+ *D. Talon*, A. Del Bue, S. James, *IEEE International Conference on Image Processing (ICIP)*, 2022.
+
 - **Comparing DASH Adaptation Algorithms in a Real Network Environment**,  
  *D. Talon*, L. Attanasio, F. Chiariotti, M. Gadaleta, A. Zanella and M. Rossi,  *European Wireless 2019*, Denmark. 
  [[PDF](https://ieeexplore.ieee.org/document/8835954)] [[Code](https://github.com/davidetalon/DASHPlayer)]
