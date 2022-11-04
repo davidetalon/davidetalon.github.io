@@ -54,8 +54,8 @@ Before joining PAVIS, I completed the BS in Information Engineering and the MS i
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 {% endcomment %}
 
-## Services to the community
+## Service to the community
 
-- Conference Reviewers: [BMVC 21](https://www.bmvc2021-virtualconference.com/people/reviewers/).
-- Journal Reviewers: [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/about/aims-and-scope).
+- Conference Reviewer: [BMVC 21](https://www.bmvc2021-virtualconference.com/people/reviewers/).
+- Journal Reviewer: [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/about/aims-and-scope).
 - Workshop Reviewer: [MULA@CVPR22](https://mula-workshop.github.io/#committee), [CRL@UAI22](https://crl-uai-2022.github.io/organisers-reviewers), [VISART@ECCV2022](https://visarts.eu/), [nCSI@NeurIPS22](https://ncsi.cause-lab.net/).
