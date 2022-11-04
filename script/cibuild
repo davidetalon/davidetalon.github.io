@@ -3,6 +3,6 @@
 set -e
 
 bundle exec jekyll build
-bundle exec htmlproofer ./_site --check-html --check-sri --url-ignore "/www.linkedin.com/"
+bundle exec htmlproofer ./_site --check-html --check-sri --url-ignore "/www.linkedin.com/,https://www.sciencedirect.com/journal/pattern-recognition/about/aims-and-scope"
 bundle exec rubocop -D
 bundle exec script/validate-html
