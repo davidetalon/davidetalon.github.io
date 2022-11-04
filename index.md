@@ -25,6 +25,7 @@ Before joining PAVIS, I completed the BS in Information Engineering and the MS i
 ## Publications
 - **GANzzle: Reframing jigsaw puzzle solving as a retrieval task using a generative mental image**,  
  *D. Talon*, A. Del Bue, S. James, *IEEE International Conference on Image Processing (ICIP)*, 2022.
+ [[PDF](https://arxiv.org/pdf/2207.05634.pdf)] [[Data](https://github.com/IIT-PAVIS/GANzzle)] [[Poster](./assets/files/2022_ICIP_ganzzle_poster.pdf)]
 
 - **Comparing DASH Adaptation Algorithms in a Real Network Environment**,  
  *D. Talon*, L. Attanasio, F. Chiariotti, M. Gadaleta, A. Zanella and M. Rossi,  *European Wireless 2019*, Denmark. 
@@ -53,33 +54,8 @@ Before joining PAVIS, I completed the BS in Information Engineering and the MS i
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 {% endcomment %}
 
-{% comment %}
-## Selected Talks
+## Services to the community
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  NeurIPS Official Meetups
-  <br>
-  Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
-
-- **Multi-Class Incremental Learning**
-  <br>
-  School of Computer Science and Engineering, Nanyang Technological University
-  <br>
-  Singapore, July 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  School of Computing, National University of Singapore
-  <br>
-  Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
-{% endcomment %}
-
-
-{% comment %}
-## Services
-
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
-{% endcomment %}
+- Conference Reviewers: [BMVC 21](https://www.bmvc2021-virtualconference.com/people/reviewers/).
+- Journal Reviewers: [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
+- Workshop Reviewer: [MULA@CVPR22](https://mula-workshop.github.io/#committee), [CRL@UAI22](https://crl-uai-2022.github.io/organisers-reviewers), [VISART@ECCV2022](https://visarts.eu/), [nCSI@NeurIPS22](https://ncsi.cause-lab.net/).
