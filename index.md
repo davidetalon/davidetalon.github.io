@@ -13,7 +13,7 @@ Before joining PAVIS, I completed the BS in Information Engineering and the MS i
 - **Machine Learning:** deep learning, representation learning, causality. 
 
 ## News
-- **[Jan 2023]** Visiting [INDELab](http://indelab.org)@UvA to work on Causal Representation Learning with Prof [Sara Magliacane](http://saramagliacane.github.io)  
+- **[Jan 2023]** Visiting [INDELab](http://indelab.org) @UvA to work on Causal Representation Learning with Prof. [Sara Magliacane](http://saramagliacane.github.io)  
 - **[Jun 2022]** Our work "GANzzle: Reframing jigsaw puzzle solving as a retrieval task using a generative mental image" has been accepted to ICIP 2022.
 - **[Apr 2022]** I gave a talk about Causality and Disentanglement to my group, [slides](./assets/files/20220413_causality_brainstorming.pdf) are available
 - **[Nov 2021]** Joined the causality reading group @TU-Darmstadt
