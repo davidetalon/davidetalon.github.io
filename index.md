@@ -25,7 +25,7 @@ Before joining PAVIS, I completed the BS in Information Engineering and the MS i
 ## Publications
 - **GANzzle: Reframing jigsaw puzzle solving as a retrieval task using a generative mental image**,  
  *D. Talon*, A. Del Bue, S. James, *IEEE International Conference on Image Processing (ICIP)*, 2022.
- [[PDF](https://arxiv.org/pdf/2207.05634.pdf)] [[Data](https://github.com/IIT-PAVIS/GANzzle)] [[Poster](./assets/files/2022_ICIP_ganzzle_poster.pdf)]
+ [[PDF](https://arxiv.org/pdf/2207.05634.pdf)] [[Data](https://github.com/IIT-PAVIS/GANzzle)] [[Poster](assets/files/2022_ICIP_ganzzle_poster.pdf)]
 
 - **Comparing DASH Adaptation Algorithms in a Real Network Environment**,  
  *D. Talon*, L. Attanasio, F. Chiariotti, M. Gadaleta, A. Zanella and M. Rossi,  *European Wireless 2019*, Denmark. 
