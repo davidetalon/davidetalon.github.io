@@ -35,29 +35,6 @@ Maracani, A., Camoriano, R., Maiettini, E., Talon, D., Rosasco, L., & Natale, L.
  *D. Talon*, L. Attanasio, F. Chiariotti, M. Gadaleta, A. Zanella and M. Rossi,  *European Wireless 2019*, Denmark. 
  [[PDF](https://ieeexplore.ieee.org/document/8835954)] [[Code](https://github.com/davidetalon/DASHPlayer)]
 
-
-
-
-{% comment %}
-- *D. Talon*, L. Attanasio, F. Chiariotti, M. Gadaleta, A. Zanella and M. Rossi, **Comparing DASH Adaptation Algorithms in a Real Network Environment,** *European Wireless 2019*, Denmark.
-  [[PDF](https://ieeexplore.ieee.org/document/8835954)] 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-{% endcomment %}
-
 ## Service to the community
 
 - Conference Reviewer: [BMVC 21](https://www.bmvc2021-virtualconference.com/people/reviewers/).
