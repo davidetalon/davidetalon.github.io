@@ -23,7 +23,11 @@ Before joining PAVIS, I completed the BS in Information Engineering and the MS i
 
 
 ## Publications
-- **GANzzle: Reframing jigsaw puzzle solving as a retrieval task using a generative mental image**,  
+- **Key Design Choices for Double-Transfer in Source-Free Unsupervised Domain Adaptation**,
+Maracani, A., Camoriano, R., Maiettini, E., Talon, D., Rosasco, L., & Natale, L., arXiv preprint arXiv:2302.05379 (2023).
+[[PDF](https://arxiv.org/abs/2302.05379)]
+
+- **GANzzle: Reframing jigsaw puzzle solving as a retrieval task using a generative mental image**, 
  *D. Talon*, A. Del Bue, S. James, *IEEE International Conference on Image Processing (ICIP)*, 2022.
  [[PDF](https://arxiv.org/pdf/2207.05634.pdf)] [[Data](https://github.com/IIT-PAVIS/GANzzle)] [[Poster](assets/files/2022_ICIP_ganzzle_poster.pdf)]
 
