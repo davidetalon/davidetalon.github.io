@@ -24,7 +24,7 @@ Before joining PAVIS, I completed the BS in Information Engineering and the MS i
 
 ## Publications
 - **Key Design Choices for Double-Transfer in Source-Free Unsupervised Domain Adaptation**,
-Maracani, A., Camoriano, R., Maiettini, E., Talon, D., Rosasco, L., & Natale, L., arXiv preprint arXiv:2302.05379 (2023).
+Maracani, A., Camoriano, R., Maiettini, E., Talon, D., Rosasco, L., Natale, L., arXiv preprint arXiv:2302.05379 (2023).
 [[PDF](https://arxiv.org/abs/2302.05379)]
 
 - **GANzzle: Reframing jigsaw puzzle solving as a retrieval task using a generative mental image**, 
@@ -39,4 +39,4 @@ Maracani, A., Camoriano, R., Maiettini, E., Talon, D., Rosasco, L., & Natale, L.
 
 - Conference Reviewer: [BMVC 21](https://www.bmvc2021-virtualconference.com/people/reviewers/).
 - Journal Reviewer: [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/about/aims-and-scope).
-- Workshop Reviewer: [MULA@CVPR22](https://mula-workshop.github.io/#committee), [CRL@UAI22](https://crl-uai-2022.github.io/organisers-reviewers), [VISART@ECCV2022](https://visarts.eu/), [nCSI@NeurIPS22](https://ncsi.cause-lab.net/).
+- Workshop Reviewer: [MULA@CVPR22](https://mula-workshop.github.io/#committee), [CRL@UAI22](https://crl-uai-2022.github.io/organisers-reviewers), [VISART@ECCV2022](https://visarts.eu/), [nCSI@NeurIPS22](https://ncsi.cause-lab.net/), [MULA@CVPR22](https://mula-workshop.github.io/#committee).
