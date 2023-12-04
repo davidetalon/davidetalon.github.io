@@ -13,6 +13,7 @@ Before joining PAVIS, I completed the BS in Information Engineering and the MS i
 - **Machine Learning:** deep learning, representation learning, causality. 
 
 ## News
+- **[Oct 2023]** Our recent work "Towards the Reusability and Compositionality of Causal Representations" has been accepted at CRL@NeurIPS23.  
 - **[Jan 2023]** Visiting [INDELab](http://indelab.org) @UvA to work on Causal Representation Learning with Prof. [Sara Magliacane](http://saramagliacane.github.io)  
 - **[Jun 2022]** Our work "GANzzle: Reframing jigsaw puzzle solving as a retrieval task using a generative mental image" has been accepted to ICIP 2022.
 - **[Apr 2022]** I gave a talk about Causality and Disentanglement to my group, [slides](./assets/files/20220413_causality_brainstorming.pdf) are available
@@ -23,8 +24,13 @@ Before joining PAVIS, I completed the BS in Information Engineering and the MS i
 
 
 ## Publications
+
+- **Towards the Reusability and Compositionality of Causal Representations**,
+Talon, D., Lippe, P., James, S., Del Bue, A., Magliacane, S., NeurIPS Workshop on Causal Representation Learning (2023).
+[[PDF](assets/files/talon2023towards-crlw.pdf)]
+
 - **Key Design Choices for Double-Transfer in Source-Free Unsupervised Domain Adaptation**,
-Maracani, A., Camoriano, R., Maiettini, E., Talon, D., Rosasco, L., Natale, L., arXiv preprint arXiv:2302.05379 (2023).
+Maracani, A., Camoriano, R., Maiettini, E., Talon, D., Rosasco, L., Natale, L., ECML Workshop on Reliable Multimodal Learning Across Domains(2023).
 [[PDF](https://arxiv.org/abs/2302.05379)]
 
 - **GANzzle: Reframing jigsaw puzzle solving as a retrieval task using a generative mental image**, 
