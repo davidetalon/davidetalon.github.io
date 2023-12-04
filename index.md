@@ -25,12 +25,12 @@ Before joining PAVIS, I completed the BS in Information Engineering and the MS i
 
 ## Publications
 
-- **Towards the Reusability and Compositionality of Causal Representations**,
-Talon, D., Lippe, P., James, S., Del Bue, A., Magliacane, S., NeurIPS Workshop on Causal Representation Learning (2023).
+- **Towards the Reusability and Compositionality of Causal Representations**,  
+D. Talon*, P. Lippe, S. James, A. Del Bue, S. Magliacane, *NeurIPS Workshop on Causal Representation Learning*, 2023.
 [[PDF](assets/files/talon2023towards-crlw.pdf)]
 
 - **Key Design Choices for Double-Transfer in Source-Free Unsupervised Domain Adaptation**,
-Maracani, A., Camoriano, R., Maiettini, E., Talon, D., Rosasco, L., Natale, L., ECML Workshop on Reliable Multimodal Learning Across Domains(2023).
+A. Maracani, R. Camoriano, E. Maiettini, D. Talon*, L. Rosasco, L. Natale, *ECML Workshop on Reliable Multimodal Learning Across Domains*, 2023.
 [[PDF](https://arxiv.org/abs/2302.05379)]
 
 - **GANzzle: Reframing jigsaw puzzle solving as a retrieval task using a generative mental image**, 
