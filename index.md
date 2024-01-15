@@ -13,6 +13,7 @@ Before joining PAVIS, I completed the BS in Information Engineering and the MS i
 - **Machine Learning:** deep learning, representation learning, causality. 
 
 ## News
+- **[Jan 2024]** Our recent work "Towards the Reusability and Compositionality of Causal Representations" has been accepted at CLeaR as an Oral!
 - **[Oct 2023]** Our recent work "Towards the Reusability and Compositionality of Causal Representations" has been accepted at CRL@NeurIPS23.  
 - **[Jan 2023]** Visiting [INDELab](http://indelab.org) @UvA to work on Causal Representation Learning with Prof. [Sara Magliacane](http://saramagliacane.github.io)  
 - **[Jun 2022]** Our work "GANzzle: Reframing jigsaw puzzle solving as a retrieval task using a generative mental image" has been accepted to ICIP 2022.
@@ -26,11 +27,14 @@ Before joining PAVIS, I completed the BS in Information Engineering and the MS i
 ## Publications
 
 - **Towards the Reusability and Compositionality of Causal Representations**,  
-D. Talon*, P. Lippe, S. James, A. Del Bue, S. Magliacane, *NeurIPS Workshop on Causal Representation Learning*, 2023.
+*D. Talon*, P. Lippe, S. James, A. Del Bue, S. Magliacane, *Conference on Causal Learning and Reasoning*, 2024.
+
+- **Towards the Reusability and Compositionality of Causal Representations**,  
+*D. Talon*, P. Lippe, S. James, A. Del Bue, S. Magliacane, *NeurIPS Workshop on Causal Representation Learning*, 2023.
 [[PDF](assets/files/talon2023towards-crlw.pdf)]
 
 - **Key Design Choices for Double-Transfer in Source-Free Unsupervised Domain Adaptation**,
-A. Maracani, R. Camoriano, E. Maiettini, D. Talon*, L. Rosasco, L. Natale, *ECML Workshop on Reliable Multimodal Learning Across Domains*, 2023.
+A. Maracani, R. Camoriano, E. Maiettini, *D. Talon*, L. Rosasco, L. Natale, *ECML Workshop on Reliable Multimodal Learning Across Domains*, 2023.
 [[PDF](https://arxiv.org/abs/2302.05379)]
 
 - **GANzzle: Reframing jigsaw puzzle solving as a retrieval task using a generative mental image**, 
@@ -45,4 +49,4 @@ A. Maracani, R. Camoriano, E. Maiettini, D. Talon*, L. Rosasco, L. Natale, *ECML
 
 - Conference Reviewer: [BMVC 21](https://www.bmvc2021-virtualconference.com/people/reviewers/).
 - Journal Reviewer: [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/about/aims-and-scope).
-- Workshop Reviewer: [MULA@CVPR22](https://mula-workshop.github.io/#committee), [CRL@UAI22](https://crl-uai-2022.github.io/organisers-reviewers), [VISART@ECCV2022](https://visarts.eu/), [nCSI@NeurIPS22](https://ncsi.cause-lab.net/), [MULA@CVPR23](https://mula-workshop.github.io/).
+- Workshop Reviewer: [MULA@CVPR22](https://mula-workshop.github.io/#committee), [CRL@UAI22](https://crl-uai-2022.github.io/organisers-reviewers), [VISART@ECCV2022](https://visarts.eu/), [nCSI@NeurIPS22](https://ncsi.cause-lab.net/), [MULA@CVPR23](https://mula-workshop.github.io/), [AtC@ECMLPKDD23](https://sites.google.com/view/adapting-to-change-ecml-pkdd/committees), [CRL@NeurIPS23](https://crl-workshop.github.io/call-for-papers/).
