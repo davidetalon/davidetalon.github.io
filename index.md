@@ -57,7 +57,7 @@ A. Maracani, R. Camoriano, E. Maiettini, *D. Talon*, L. Rosasco, L. Natale, *ECM
  [[PDF](https://ieeexplore.ieee.org/document/8835954)] [[Code](https://github.com/davidetalon/DASHPlayer)]
 
 ## Service to the community
-- Workshop Organizer: [GreenFOMO@ECCV24](https://green-fomo.github.io/ECCV2024/)
+- Workshop Organizer: [GreenFOMO@ECCV24](https://green-fomo.github.io/ECCV2024/).
 - Conference Reviewer: [BMVC21](https://www.bmvc2021-virtualconference.com/people/reviewers/), [ECCV24](https://eccv2024.ecva.net/), [IROS24](https://iros2024-abudhabi.org/).
 - Journal Reviewer: [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/about/aims-and-scope).
 - Workshop Reviewer: [MULA@CVPR22](https://mula-workshop.github.io/#committee), [CRL@UAI22](https://crl-uai-2022.github.io/organisers-reviewers), [VISART@ECCV22](https://visarts.eu/), [nCSI@NeurIPS22](https://ncsi.cause-lab.net/), [MULA@CVPR23](https://mula-workshop.github.io/), [AtC@ECMLPKDD23](https://sites.google.com/view/adapting-to-change-ecml-pkdd/committees), [CRL@NeurIPS23](https://crl-workshop.github.io/call-for-papers/), [MULA@CVPR24](https://mula-workshop.github.io/).
