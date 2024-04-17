@@ -2,10 +2,10 @@
 layout: homepage
 ---
 
-I am a PostDoc at [Fondazione Bruno Kessler (FBK)](https://www.fbk.eu/it/).  
-I am part of [DVL](https://dvl.fbk.eu/), advised by Prof. [Elisa Ricci](https://eliricci.eu/) and Dr. [Yiming Wang](https://www.yimingwang.it/).
+I am a PostDoc at [Fondazione Bruno Kessler (FBK)](https://www.fbk.eu/it/) working on efficient multi-modal learning.  
+I am part of Deep Visual Learning([DVL](https://dvl.fbk.eu/)) unit, advised by Prof. [Elisa Ricci](https://eliricci.eu/) and Dr. [Yiming Wang](https://www.yimingwang.it/).
 
-Before joining FBK I obtained the PhD in Computer Vision at University of Genova and [Italian Institute of Technology (IIT)](https://www.iit.it/en-US/home) under the supervision of Dr. [Alessio Del Bue](https://www.iit.it/people/alessio-delbue) and Prof. [Stuart James] (https://stuart-james.com/). During the PhD, I visited the University of Amsterdam to work with Prof. [Sara Magliacane](https://saramagliacane.github.io/). I completed both the BS in Information Engineering and the MS in Computer Engineering at [University of Padova](http://unipd.it).
+Before joining FBK I obtained the PhD in Computer Vision at [University of Genova](https://unige.it/) and [Italian Institute of Technology (IIT)](https://www.iit.it/en-US/home) under the supervision of Dr. [Alessio Del Bue](https://www.iit.it/people/alessio-delbue) and Prof. [Stuart James](https://stuart-james.com/). During the PhD, I visited the [University of Amsterdam](https://www.uva.nl/en) to work with Prof. [Sara Magliacane](https://saramagliacane.github.io/). I completed both the BS in Information Engineering and the MS in Computer Engineering at [University of Padova](http://unipd.it).
 <br>
 [CV](./assets/files/dt_resume.pdf) / [Twitter](https://twitter.com/davidetalon94)
 
@@ -16,7 +16,7 @@ Before joining FBK I obtained the PhD in Computer Vision at University of Genova
 - **[Apr 2024]** Happy to share that we are organizing a workshop at ECCV2024 on Green Foundation Models (GreenFOMO), see you in Milan!
 - **[Apr 2024]** Check out our recent work "Uncertainty-guided Open-Set Source-Free Unsupervised Domain Adaptation with Target-private Class Segregation"
 - **[Apr 2024]** I've joinged Deep Visual Learning Group at Fondazione Bruno Kessler (FBK). I am excited to be working with Elisa Ricci and Yiming Wang!
-- **[March 2024]**I've successfully defended my PhD thesis on "Structured Representation Learning for Visual Data"
+- **[March 2024]** I've successfully defended my PhD thesis on "Structured Representation Learning for Visual Data"
 - **[Jan 2024]** Our recent work "Towards the Reusability and Compositionality of Causal Representations" has been accepted at CLeaR as an Oral!
 - **[Oct 2023]** Our recent work "Towards the Reusability and Compositionality of Causal Representations" has been accepted at CRL@NeurIPS23.  
 - **[Jan 2023]** Visiting [INDELab](http://indelab.org) @UvA to work on Causal Representation Learning with Prof. [Sara Magliacane](http://saramagliacane.github.io)  
@@ -34,7 +34,7 @@ Before joining FBK I obtained the PhD in Computer Vision at University of Genova
 
 - **Towards the Reusability and Compositionality of Causal Representations**,  
 *D. Talon*, P. Lippe, S. James, A. Del Bue, S. Magliacane, *Conference on Causal Learning and Reasoning*, 2024.
-[[PDF]](https://arxiv.org/abs/2403.09830)
+[[PDF](https://arxiv.org/abs/2403.09830)]
 
 - **Key Design Choices in Source-Free Unsupervised Domain Adaptation: An In-depth Empirical Analysis**,
 A. Maracani, R. Camoriano, E. Maiettini, *D. Talon*, L. Rosasco, L. Natale, *arXiv preprint arXiv:2402.16090*, 2024.
