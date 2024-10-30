@@ -13,6 +13,7 @@ Before joining FBK I obtained the PhD in Computer Vision at [University of Genov
 - **Machine Learning:** deep learning, representation learning, vision-language models, causality. 
 
 ## News
+- **[Oct 2024]** Our work "One VLM to Keep it Learning: Generation and Balancing for Data-free Continual Visual Question Answering" has been accepted at WACV2025! 
 - **[Apr 2024]** Happy to share that we are organizing a workshop at ECCV2024 on Green Foundation Models (GreenFOMO), see you in Milan!
 - **[Apr 2024]** Check out our recent work "Uncertainty-guided Open-Set Source-Free Unsupervised Domain Adaptation with Target-private Class Segregation"
 - **[Apr 2024]** I've joined the Deep Visual Learning Group at Fondazione Bruno Kessler (FBK). I am excited to be working with Elisa Ricci and Yiming Wang!
@@ -29,6 +30,8 @@ Before joining FBK I obtained the PhD in Computer Vision at [University of Genov
 
 
 ## Publications
+- **One VLM to Keep it Learning: Generation and Balancing for Data-free Continual Visual Question Answering**, D. Das, *D. Talon*, Y. Wang,  M. Mancini, E. Ricci, *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, 2025.
+
 - **Uncertainty-guided Open-Set Source-Free Unsupervised Domain Adaptation with Target-private Class Segregation**, M. Litrico, *D. Talon*, S. Battiato, A. Del Bue, M. V. Giuffrida, P. Morerio, *arXiv preprint arXiv:2404.10574*, 2024.
 [[PDF](https://arxiv.org/pdf/2404.10574.pdf)]
 
