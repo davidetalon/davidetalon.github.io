@@ -13,6 +13,7 @@ Before joining FBK I obtained the PhD in Computer Vision at [University of Genov
 - **Machine Learning:** deep learning, representation learning, vision-language models, causality. 
 
 ## News
+- **[Nov 2024]** Good news! Ours recent work "GANzzle++: Generative approaches for jigsaw puzzle solving as local to global assignment in latent spatial representations" has been accepted for publication on Pattern Recognition Letters!
 - **[Oct 2024]** Our work "One VLM to Keep it Learning: Generation and Balancing for Data-free Continual Visual Question Answering" has been accepted at WACV2025! 
 - **[Apr 2024]** Happy to share that we are organizing a workshop at ECCV2024 on Green Foundation Models (GreenFOMO), see you in Milan!
 - **[Apr 2024]** Check out our recent work "Uncertainty-guided Open-Set Source-Free Unsupervised Domain Adaptation with Target-private Class Segregation"
@@ -21,15 +22,21 @@ Before joining FBK I obtained the PhD in Computer Vision at [University of Genov
 - **[Jan 2024]** Our recent work "Towards the Reusability and Compositionality of Causal Representations" has been accepted at CLeaR as an Oral!
 - **[Oct 2023]** Our recent work "Towards the Reusability and Compositionality of Causal Representations" has been accepted at CRL@NeurIPS23.  
 - **[Jan 2023]** Visiting [INDELab](http://indelab.org) @UvA to work on Causal Representation Learning with Prof. [Sara Magliacane](http://saramagliacane.github.io)  
+
+<!---
 - **[Jun 2022]** Our work "GANzzle: Reframing jigsaw puzzle solving as a retrieval task using a generative mental image" has been accepted as an oral to ICIP 2022.
 - **[Apr 2022]** I gave a talk about Causality and Disentanglement to my group, [slides](./assets/files/20220413_causality_brainstorming.pdf) are available
 - **[Nov 2021]** Joined the causality reading group @TU-Darmstadt
 - **[Dec 2020]** The personal page is online!
 - **[Nov 2020]** Starting the PhD programme with Istituto Italiano di Technologia in the [PAVIS Lab](https://pavis.iit.it/) 
+-->
 
 
 
 ## Publications
+
+- **GANzzle++: Generative approaches for jigsaw puzzle solving as local to global assignment in latent spatial representations**, *D. Talon*, A. Del Bue, S. James, *Pattern Recognition Letters*, 2024.
+  
 - **One VLM to Keep it Learning: Generation and Balancing for Data-free Continual Visual Question Answering**, D. Das, *D. Talon*, Y. Wang,  M. Mancini, E. Ricci, *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, 2025.
 
 - **Uncertainty-guided Open-Set Source-Free Unsupervised Domain Adaptation with Target-private Class Segregation**, M. Litrico, *D. Talon*, S. Battiato, A. Del Bue, M. V. Giuffrida, P. Morerio, *arXiv preprint arXiv:2404.10574*, 2024.
