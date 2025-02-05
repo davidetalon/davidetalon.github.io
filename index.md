@@ -13,6 +13,7 @@ Before joining FBK I obtained the PhD in Computer Vision at [University of Genov
 - **Machine Learning:** deep learning, representation learning, vision-language models, causality. 
 
 ## News
+- **[Feb 2025]** Excited to start teaching - This spring I will be teaching Introduction to Machine Learning for Data Science Master Program at UniTN
 - **[Nov 2024]** Good news! Ours recent work "GANzzle++: Generative approaches for jigsaw puzzle solving as local to global assignment in latent spatial representations" has been accepted for publication on Pattern Recognition Letters!
 - **[Oct 2024]** Our work "One VLM to Keep it Learning: Generation and Balancing for Data-free Continual Visual Question Answering" has been accepted at WACV2025! 
 - **[Apr 2024]** Happy to share that we are organizing a workshop at ECCV2024 on Green Foundation Models (GreenFOMO), see you in Milan!
@@ -66,8 +67,12 @@ A. Maracani, R. Camoriano, E. Maiettini, *D. Talon*, L. Rosasco, L. Natale, *ECM
  *D. Talon*, L. Attanasio, F. Chiariotti, M. Gadaleta, A. Zanella and M. Rossi,  *European Wireless 2019*, Denmark. 
  [[PDF](https://ieeexplore.ieee.org/document/8835954)] [[Code](https://github.com/davidetalon/DASHPlayer)]
 
+## Teaching
+- Advanced Multimodal Learning, Fall 2025, IECS Doctoral School  - University of Trento
+- Introduction to Machine Learning, Spring 2025, Data Science Master Degree - University of Trento
+
 ## Service to the community
 - Workshop Organizer: [GreenFOMO@ECCV24](https://green-fomo.github.io/ECCV2024/).
-- Conference Reviewer: [BMVC21](https://www.bmvc2021-virtualconference.com/people/reviewers/), [ECCV24](https://eccv2024.ecva.net/), [IROS24](https://iros2024-abudhabi.org/).
+- Conference Reviewer: [BMVC21](https://www.bmvc2021-virtualconference.com/people/reviewers/), [ECCV24](https://eccv2024.ecva.net/), [IROS24](https://iros2024-abudhabi.org/), [CVPR25](https://cvpr.thecvf.com/Conferences/2025).
 - Journal Reviewer: [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/about/aims-and-scope).
 - Workshop Reviewer: [MULA@CVPR22](https://mula-workshop.github.io/#committee), [CRL@UAI22](https://crl-uai-2022.github.io/organisers-reviewers), [VISART@ECCV22](https://visarts.eu/), [nCSI@NeurIPS22](https://ncsi.cause-lab.net/), [MULA@CVPR23](https://mula-workshop.github.io/), [AtC@ECMLPKDD23](https://sites.google.com/view/adapting-to-change-ecml-pkdd/committees), [CRL@NeurIPS23](https://crl-workshop.github.io/call-for-papers/), [MULA@CVPR24](https://mula-workshop.github.io/).
