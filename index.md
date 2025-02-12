@@ -13,7 +13,7 @@ Before joining FBK I obtained the PhD in Computer Vision at [University of Genov
 - **Machine Learning:** deep learning, representation learning, vision-language models, causality. 
 
 ## News
-- **[Feb 2025]** Excited to start teaching - This spring I will be teaching Introduction to Machine Learning for Data Science Master Program at UniTN
+- **[Feb 2025]** Excited to start teaching - This spring I will be teaching Introduction to Machine Learning for the Data Science Master Program at UniTN
 - **[Nov 2024]** Good news! Ours recent work "GANzzle++: Generative approaches for jigsaw puzzle solving as local to global assignment in latent spatial representations" has been accepted for publication on Pattern Recognition Letters!
 - **[Oct 2024]** Our work "One VLM to Keep it Learning: Generation and Balancing for Data-free Continual Visual Question Answering" has been accepted at WACV2025! 
 - **[Apr 2024]** Happy to share that we are organizing a workshop at ECCV2024 on Green Foundation Models (GreenFOMO), see you in Milan!
@@ -31,8 +31,6 @@ Before joining FBK I obtained the PhD in Computer Vision at [University of Genov
 - **[Dec 2020]** The personal page is online!
 - **[Nov 2020]** Starting the PhD programme with Istituto Italiano di Technologia in the [PAVIS Lab](https://pavis.iit.it/) 
 -->
-
-
 
 ## Publications
 
@@ -70,6 +68,12 @@ A. Maracani, R. Camoriano, E. Maiettini, *D. Talon*, L. Rosasco, L. Natale, *ECM
 ## Teaching
 - Advanced Multimodal Learning, Fall 2025, IECS Doctoral School  - University of Trento
 - Introduction to Machine Learning, Spring 2025, Data Science Master Degree - University of Trento
+
+<!---
+## European Projects
+I am currently actively involved in National and European projects:
+- PATTERN
+-->
 
 ## Service to the community
 - Workshop Organizer: [GreenFOMO@ECCV24](https://green-fomo.github.io/ECCV2024/).
