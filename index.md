@@ -13,6 +13,7 @@ Before joining FBK I obtained the PhD in Computer Vision at [University of Genov
 - **Machine Learning:** deep learning, representation learning, vision-language models, causality. 
 
 ## News
+- **[Feb 2025]** Beyond excited to share that our recent paper "Seeing the Abstract: Translating the Abstract Language for Vision Language Models" has been accepted to CVPR25. See you in Nashville! 
 - **[Feb 2025]** Excited to start teaching - This spring I will be teaching Introduction to Machine Learning for the Data Science Master Program at UniTN
 - **[Nov 2024]** Good news! Ours recent work "GANzzle++: Generative approaches for jigsaw puzzle solving as local to global assignment in latent spatial representations" has been accepted for publication on Pattern Recognition Letters!
 - **[Oct 2024]** Our work "One VLM to Keep it Learning: Generation and Balancing for Data-free Continual Visual Question Answering" has been accepted at WACV2025! 
