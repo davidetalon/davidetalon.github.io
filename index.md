@@ -13,11 +13,19 @@ Before joining FBK I obtained the PhD in Computer Vision at [University of Genov
 - **Machine Learning:** deep learning, representation learning, vision-language models, causality. 
 
 ## News
+- **[Jun 2025]** Thrilled about the two papers accepted at ICCV25! Congratulations to Deepayan (VLM personalization) and Federico (Sketch-text generation)!
+
+- **[Jun 2025]** We have one paper accepted at ICIAP25! Congratulations to Karin working on evaluation of T2I models for fashion. See you in Rome!
+
+- **[Jun 2025]** We have one paper accepted to ICIAP25! Congratulations to Karin working on evaluation of T2I models for fashion. See you in Rome!
 - **[Feb 2025]** Beyond excited to share that our recent paper "Seeing the Abstract: Translating the Abstract Language for Vision Language Models" has been accepted to CVPR25. See you in Nashville! 
 - **[Feb 2025]** Excited to start teaching - This spring I will be teaching Introduction to Machine Learning for the Data Science Master Program at UniTN
 - **[Nov 2024]** Good news! Ours recent work "GANzzle++: Generative approaches for jigsaw puzzle solving as local to global assignment in latent spatial representations" has been accepted for publication on Pattern Recognition Letters!
 - **[Oct 2024]** Our work "One VLM to Keep it Learning: Generation and Balancing for Data-free Continual Visual Question Answering" has been accepted at WACV2025! 
-- **[Apr 2024]** Happy to share that we are organizing a workshop at ECCV2024 on Green Foundation Models (GreenFOMO), see you in Milan!
+
+
+<!---
+  - **[Apr 2024]** Happy to share that we are organizing a workshop at ECCV2024 on Green Foundation Models (GreenFOMO), see you in Milan!
 - **[Apr 2024]** Check out our recent work "Uncertainty-guided Open-Set Source-Free Unsupervised Domain Adaptation with Target-private Class Segregation"
 - **[Apr 2024]** I've joined the Deep Visual Learning Group at Fondazione Bruno Kessler (FBK). I am excited to be working with Elisa Ricci and Yiming Wang!
 - **[March 2024]** I've successfully defended my PhD thesis on "Structured Representation Learning for Visual Data"
@@ -25,7 +33,6 @@ Before joining FBK I obtained the PhD in Computer Vision at [University of Genov
 - **[Oct 2023]** Our recent work "Towards the Reusability and Compositionality of Causal Representations" has been accepted at CRL@NeurIPS23.  
 - **[Jan 2023]** Visiting [INDELab](http://indelab.org) @UvA to work on Causal Representation Learning with Prof. [Sara Magliacane](http://saramagliacane.github.io)  
 
-<!---
 - **[Jun 2022]** Our work "GANzzle: Reframing jigsaw puzzle solving as a retrieval task using a generative mental image" has been accepted as an oral to ICIP 2022.
 - **[Apr 2022]** I gave a talk about Causality and Disentanglement to my group, [slides](./assets/files/20220413_causality_brainstorming.pdf) are available
 - **[Nov 2021]** Joined the causality reading group @TU-Darmstadt
@@ -34,6 +41,15 @@ Before joining FBK I obtained the PhD in Computer Vision at [University of Genov
 -->
 
 ## Publications
+- **LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing**, 
+F. Girella, *D. Talon*, Z. Liu, Z. Ruan, Y. Wang, M. Cristani, *The IEEE/CVF International Conference on Computer Vision*, 2025.
+
+- **Training-Free Personalization via Retrieval and Reasoning on Fingerprints**, D. Das, *D. Talon*, Y. Wang,  M. Mancini, E. Ricci, *The IEEE/CVF International Conference on Computer Vision*, 2025.[[PDF](https://arxiv.org/abs/2503.18623)]
+
+- **Evaluating Attribute Confusion in Fashion Text-to-Image Generation**, Z. Liu, F. Girella, Y. Wang, *D. Talon*, *International Conference on Image Analysis and Processing*, 2025.
+  
+- **Seeing the Abstract: Translating the Abstract Language for Vision Language Models**, *D. Talon*, F. Girella, Z. Liu, M. Cristani, Y. Wang, *The IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2025.
+[[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Talon_Seeing_the_Abstract_Translating_the_Abstract_Language_for_Vision_Language_CVPR_2025_paper.pdf)] [[Code](https://github.com/davidetalon/fashionact)] [[Homepage](https://davidetalon.github.io/fashionact-page/)] [[Poster](assets/files/2025_CVPR_seeing.pdf)] [[Video](https://www.youtube.com/watch?v=HZwRl4oJxwM)]
 
 - **GANzzle++: Generative approaches for jigsaw puzzle solving as local to global assignment in latent spatial representations**, *D. Talon*, A. Del Bue, S. James, *Pattern Recognition Letters*, 2024.
   
@@ -78,6 +94,7 @@ I am currently actively involved in National and European projects:
 
 ## Service to the community
 - Workshop Organizer: [GreenFOMO@ECCV24](https://green-fomo.github.io/ECCV2024/).
-- Conference Reviewer: [BMVC21](https://www.bmvc2021-virtualconference.com/people/reviewers/), [ECCV24](https://eccv2024.ecva.net/), [IROS24](https://iros2024-abudhabi.org/), [CVPR25](https://cvpr.thecvf.com/Conferences/2025).
+- Area Chair: [BMVC25](https://bmvc2025.bmva.org/).
+- Conference Reviewer: [BMVC21](https://www.bmvc2021-virtualconference.com/people/reviewers/), [ECCV24](https://eccv2024.ecva.net/), [IROS24](https://iros2024-abudhabi.org/), [CVPR25](https://cvpr.thecvf.com/Conferences/2025), [ACMMM25](https://acmmm2025.org/).
 - Journal Reviewer: [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/about/aims-and-scope).
 - Workshop Reviewer: [MULA@CVPR22](https://mula-workshop.github.io/#committee), [CRL@UAI22](https://crl-uai-2022.github.io/organisers-reviewers), [VISART@ECCV22](https://visarts.eu/), [nCSI@NeurIPS22](https://ncsi.cause-lab.net/), [MULA@CVPR23](https://mula-workshop.github.io/), [AtC@ECMLPKDD23](https://sites.google.com/view/adapting-to-change-ecml-pkdd/committees), [CRL@NeurIPS23](https://crl-workshop.github.io/call-for-papers/), [MULA@CVPR24](https://mula-workshop.github.io/).
