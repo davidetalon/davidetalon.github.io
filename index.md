@@ -42,18 +42,20 @@ Before joining FBK I obtained the PhD in Computer Vision at [University of Genov
 
 ## Publications
 - **LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing**, 
-F. Girella, *D. Talon*, Z. Liu, Z. Ruan, Y. Wang, M. Cristani, *The IEEE/CVF International Conference on Computer Vision*, 2025.
+F. Girella, *D. Talon*, Z. Liu, Z. Ruan, Y. Wang, M. Cristani, *The IEEE/CVF International Conference on Computer Vision (Oral)*, 2025.
+[[Homepage](https://federicogirella.github.io/lots/)] [[PDF](https://arxiv.org/abs/2507.22627)] [[Data](https://huggingface.co/datasets/federicogirella/sketchy)]
 
-- **Training-Free Personalization via Retrieval and Reasoning on Fingerprints**, D. Das, *D. Talon*, Y. Wang,  M. Mancini, E. Ricci, *The IEEE/CVF International Conference on Computer Vision*, 2025.[[PDF](https://arxiv.org/abs/2503.18623)]
+- **Training-Free Personalization via Retrieval and Reasoning on Fingerprints**, D. Das, *D. Talon*, Y. Wang,  M. Mancini, E. Ricci, *The IEEE/CVF International Conference on Computer Vision*, 2025. [[Homepage](https://deepayan137.github.io/papers/training-free-personalization.html)] [[PDF](https://arxiv.org/abs/2503.18623)] [[Code](https://github.com/Deepayan137/R2P)] [[Data](https://drive.google.com/file/d/1VntjTpEIW40hLMhvoIqjATzs1Tjiry31/view)]
 
-- **Evaluating Attribute Confusion in Fashion Text-to-Image Generation**, Z. Liu, F. Girella, Y. Wang, *D. Talon*, *International Conference on Image Analysis and Processing*, 2025.
+- **Evaluating Attribute Confusion in Fashion Text-to-Image Generation**, Z. Liu, F. Girella, Y. Wang, *D. Talon*, *International Conference on Image Analysis and Processing*, 2025. [[Homepage](https://intelligolabs.github.io/L-VQAScore/)] [[PDF](https://arxiv.org/abs/2507.07079)][[Code](https://github.com/intelligolabs/L-VQAScore)]
   
 - **Seeing the Abstract: Translating the Abstract Language for Vision Language Models**, *D. Talon*, F. Girella, Z. Liu, M. Cristani, Y. Wang, *The IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2025.
-[[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Talon_Seeing_the_Abstract_Translating_the_Abstract_Language_for_Vision_Language_CVPR_2025_paper.pdf)] [[Code](https://github.com/davidetalon/fashionact)] [[Homepage](https://davidetalon.github.io/fashionact-page/)] [[Poster](assets/files/2025_CVPR_seeing.pdf)] [[Video](https://www.youtube.com/watch?v=HZwRl4oJxwM)]
+[[Homepage](https://davidetalon.github.io/fashionact-page/)] [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Talon_Seeing_the_Abstract_Translating_the_Abstract_Language_for_Vision_Language_CVPR_2025_paper.pdf)] [[Code](https://github.com/davidetalon/fashionact)]  [[Poster](assets/files/2025_CVPR_seeing.pdf)] [[Video](https://www.youtube.com/watch?v=HZwRl4oJxwM)]
 
-- **GANzzle++: Generative approaches for jigsaw puzzle solving as local to global assignment in latent spatial representations**, *D. Talon*, A. Del Bue, S. James, *Pattern Recognition Letters*, 2024.
+- **GANzzle++: Generative approaches for jigsaw puzzle solving as local to global assignment in latent spatial representations**, *D. Talon*, A. Del Bue, S. James, *Pattern Recognition Letters*, 2024.  [[PDF](https://www.sciencedirect.com/science/article/pii/S0167865524003179)]
   
 - **One VLM to Keep it Learning: Generation and Balancing for Data-free Continual Visual Question Answering**, D. Das, *D. Talon*, Y. Wang,  M. Mancini, E. Ricci, *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, 2025.
+[[Homepage](https://deepayan137.github.io/papers/one-vlm-continual.html)] [[PDF](https://arxiv.org/abs/2411.02210)] [[Code](https://github.com/Deepayan137/GaB)] [[Poster](https://drive.google.com/file/d/1WC1qcY4xE1cp0wOHJc0upp7TRAo2JFY6/view)] [[Video](https://drive.google.com/file/d/1q_VVNlIi33aJs236NGR8i9MWCX80XvBY/view)]
 
 - **Uncertainty-guided Open-Set Source-Free Unsupervised Domain Adaptation with Target-private Class Segregation**, M. Litrico, *D. Talon*, S. Battiato, A. Del Bue, M. V. Giuffrida, P. Morerio, *arXiv preprint arXiv:2404.10574*, 2024.
 [[PDF](https://arxiv.org/pdf/2404.10574.pdf)]
