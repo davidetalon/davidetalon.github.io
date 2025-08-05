@@ -14,9 +14,7 @@ Before joining FBK I obtained the PhD in Computer Vision at [University of Genov
 
 ## News
 - **[Jun 2025]** Thrilled about the two papers accepted at ICCV25! Congratulations to Deepayan (VLM personalization) and Federico (Sketch-text generation)!
-
 - **[Jun 2025]** We have one paper accepted at ICIAP25! Congratulations to Karin working on evaluation of T2I models for fashion. See you in Rome!
-
 - **[Jun 2025]** We have one paper accepted to ICIAP25! Congratulations to Karin working on evaluation of T2I models for fashion. See you in Rome!
 - **[Feb 2025]** Beyond excited to share that our recent paper "Seeing the Abstract: Translating the Abstract Language for Vision Language Models" has been accepted to CVPR25. See you in Nashville! 
 - **[Feb 2025]** Excited to start teaching - This spring I will be teaching Introduction to Machine Learning for the Data Science Master Program at UniTN
