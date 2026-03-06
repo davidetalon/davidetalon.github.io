@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 I am a PostDoc at [Fondazione Bruno Kessler (FBK)](https://www.fbk.eu/it/) working on efficient multi-modal learning.  
-I am part of [Deep Visual Learning(DVL)](https://dvl.fbk.eu/) unit, advised by Prof. [Elisa Ricci](https://eliricci.eu/) and Dr. [Yiming Wang](https://www.yimingwang.it/).
+I am part of [Deep Visual Learning(DVL)](https://dvl.fbk.eu/) unit, advised by Prof. [Elisa Ricci](https://eliricci.eu/) and Dr. [Yiming Wang](https://www.yimingwang.me/).
 
 Before joining FBK I obtained the PhD in Computer Vision at [University of Genova](https://unige.it/) and [Italian Institute of Technology (IIT)](https://www.iit.it/en-US/home) under the supervision of Dr. [Alessio Del Bue](https://www.iit.it/people/alessio-delbue) and Prof. [Stuart James](https://stuart-james.com/). During the PhD, I visited the [University of Amsterdam](https://www.uva.nl/en) to work with Prof. [Sara Magliacane](https://saramagliacane.github.io/). I completed both the BS in Information Engineering and the MS in Computer Engineering at [University of Padova](http://unipd.it).
 <br>
@@ -13,6 +13,8 @@ Before joining FBK I obtained the PhD in Computer Vision at [University of Genov
 - **Machine Learning:** deep learning, representation learning, vision-language models, causality. 
 
 ## News
+- **[Jan 2026]** Happy to share that MemCoach has been accepted to CVPR26! Keep pushing Francesco :)
+- **[Sep 2025]** Our recent work "Uncertainty-guided Open-Set Source-Free Unsupervised Domain Adaptation with Target-private Class Segregation" has been accepted to IJCV! Congratulations Mattia! 
 - **[Jun 2025]** Thrilled about the two papers accepted at ICCV25! Congratulations to Deepayan (VLM personalization) and Federico (Sketch-text generation)!
 - **[Jun 2025]** We have one paper accepted at ICIAP25! Congratulations to Karin working on evaluation of T2I models for fashion. See you in Rome!
 - **[Jun 2025]** We have one paper accepted to ICIAP25! Congratulations to Karin working on evaluation of T2I models for fashion. See you in Rome!
@@ -39,6 +41,10 @@ Before joining FBK I obtained the PhD in Computer Vision at [University of Genov
 -->
 
 ## Publications
+- **How to Take a Memorable Picture? Empowering Users with Actionable Feedback**, 
+F. Laiti, *D. Talon*, J. Staiano, E. Ricci, *The IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2026.  
+[[Homepage](https://laitifranz.github.io/MemCoach/)] [[PDF](https://arxiv.org/abs/2602.21877)]
+
 - **LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing**, 
 F. Girella, *D. Talon*, Z. Liu, Z. Ruan, Y. Wang, M. Cristani, *The IEEE/CVF International Conference on Computer Vision (Oral)*, 2025.
 [[Homepage](https://federicogirella.github.io/lots/)] [[PDF](https://arxiv.org/abs/2507.22627)] [[Data](https://huggingface.co/datasets/federicogirella/sketchy)]
@@ -55,7 +61,7 @@ F. Girella, *D. Talon*, Z. Liu, Z. Ruan, Y. Wang, M. Cristani, *The IEEE/CVF Int
 - **One VLM to Keep it Learning: Generation and Balancing for Data-free Continual Visual Question Answering**, D. Das, *D. Talon*, Y. Wang,  M. Mancini, E. Ricci, *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, 2025.
 [[Homepage](https://deepayan137.github.io/papers/one-vlm-continual.html)] [[PDF](https://arxiv.org/abs/2411.02210)] [[Code](https://github.com/Deepayan137/GaB)] [[Poster](https://drive.google.com/file/d/1WC1qcY4xE1cp0wOHJc0upp7TRAo2JFY6/view)] [[Video](https://drive.google.com/file/d/1q_VVNlIi33aJs236NGR8i9MWCX80XvBY/view)]
 
-- **Uncertainty-guided Open-Set Source-Free Unsupervised Domain Adaptation with Target-private Class Segregation**, M. Litrico, *D. Talon*, S. Battiato, A. Del Bue, M. V. Giuffrida, P. Morerio, *arXiv preprint arXiv:2404.10574*, 2024.
+- **Uncertainty-guided Open-Set Source-Free Unsupervised Domain Adaptation with Target-private Class Segregation**, M. Litrico, *D. Talon*, S. Battiato, A. Del Bue, M. V. Giuffrida, P. Morerio, International Journal of Computer Vision, 2025.
 [[PDF](https://arxiv.org/pdf/2404.10574.pdf)]
 
 - **Towards the Reusability and Compositionality of Causal Representations**,  
@@ -95,6 +101,6 @@ I am currently actively involved in National and European projects:
 ## Service to the community
 - Workshop Organizer: [GreenFOMO@ECCV24](https://green-fomo.github.io/ECCV2024/).
 - Area Chair: [BMVC25](https://bmvc2025.bmva.org/).
-- Conference Reviewer: [BMVC21](https://www.bmvc2021-virtualconference.com/people/reviewers/), [ECCV24](https://eccv2024.ecva.net/), [IROS24](https://iros2024-abudhabi.org/), [CVPR25](https://cvpr.thecvf.com/Conferences/2025), [ACMMM25](https://acmmm2025.org/).
+- Conference Reviewer: [BMVC21](https://www.bmvc2021-virtualconference.com/people/reviewers/), [ECCV24](https://eccv2024.ecva.net/), [IROS24](https://iros2024-abudhabi.org/), [CVPR25](https://cvpr.thecvf.com/Conferences/2025), [ACMMM25](https://acmmm2025.org/). [CVPR26](https://cvpr.thecvf.com/Conferences/2026), [ECCV26](https://eccv.ecva.net/), [BMVC26](https://bmvc2026.bmva.org/)
 - Journal Reviewer: [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/about/aims-and-scope).
 - Workshop Reviewer: [MULA@CVPR22](https://mula-workshop.github.io/#committee), [CRL@UAI22](https://crl-uai-2022.github.io/organisers-reviewers), [VISART@ECCV22](https://visarts.eu/), [nCSI@NeurIPS22](https://ncsi.cause-lab.net/), [MULA@CVPR23](https://mula-workshop.github.io/), [AtC@ECMLPKDD23](https://sites.google.com/view/adapting-to-change-ecml-pkdd/committees), [CRL@NeurIPS23](https://crl-workshop.github.io/call-for-papers/), [MULA@CVPR24](https://mula-workshop.github.io/).
