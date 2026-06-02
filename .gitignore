@@ -8,3 +8,4 @@ Gemfile.lock
 git-update.sh
 vendor/*
 
+vendor/bundle/
