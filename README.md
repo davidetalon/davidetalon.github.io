@@ -1,111 +1,38 @@
-# The Minimal Light Theme
+# Academic Personal Site
 
-[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-academic?style=flat-square)](https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE)
-[![gem](https://img.shields.io/gem/v/minimal-light?style=flat-square)](https://rubygems.org/gems/minimal-light)
-[![Gem](https://img.shields.io/gem/dt/minimal-light?style=flat-square)](https://rubygems.org/gems/minimal-light)
-[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.5-orange.svg?style=flat-square)](https://jekyllrb.com/)
-[![Build Status](https://img.shields.io/travis/com/yaoyao-liu/minimal-light?style=flat-square)](https://travis-ci.com/yaoyao-liu/minimal-light)
+A vibe-coded small, Markdown-first personal site designed for GitHub Pages.
 
-\[[Demo the theme](https://minimal-light.yyliu.net/)\]  \[[🇨🇳 简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh.md)\]
- 
-*This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
-<br>
-*Feel free to use or share the source code anywhere you like.*
+## Update your information
 
-## Features
+Edit the front matter at the top of `index.md` to change your name (`author_name`), role, institution, email address, and profile image.
 
-- Simple and elegant personal homepage theme
-- Jekyll theme, deploy automatically by GitHub pages
-- Mobile friendly
-- Support Markdown 
-- Support dark mode
+Edit the Markdown content files in `_includes/content/`:
 
-## Usage
+- `about.md` for your biography and research interests
+- `news.md` for announcements
+- `publications.md` for papers and links
+- `teaching-service.md` for courses and community work
+- `more.md` for a CV link, profiles, and additional interests
 
-### Using on GitHub 
+Replace `assets/images/profile-placeholder.jpg` with a headshot using the same filename, or update `profile_image` in `index.md`.
 
-To use this theme, add the following to your site's `_config.yml`:
+## Publish on GitHub Pages
 
-```yaml
-remote_theme: yaoyao-liu/minimal-light
-```
+1. Push this repository to GitHub.
+2. In the repository settings, open **Pages**.
+3. Under **Build and deployment**, choose **Deploy from a branch**.
+4. Select the `main` branch and `/ (root)` folder, then save.
 
-### Using with Jekyll
+GitHub Pages builds Jekyll and Markdown automatically. Your site will appear at `https://USERNAME.github.io/REPOSITORY/`, or at `https://USERNAME.github.io/` when the repository is named `USERNAME.github.io`.
+The homepage uses relative asset paths, so either address works without adjusting the configuration.
 
-*You need to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/) fisrt.*
+## Preview locally
 
-Clone this repository:
+With Ruby and Bundler installed:
 
-```bash
-git clone https://github.com/yaoyao-liu/minimal-light.git
-cd minimal-light
-```
-Install and run:
-
-```bash
+```sh
 bundle install
-bundle exec jekyll server
+bundle exec jekyll serve
 ```
-View the live page using `localhost`:
-<http://localhost:4000>. You can get the html files in `_site` folder.
 
-## Customizing
-
-### Configuration variables
-
-The Minimal Light theme will respect the following variables, if set in your site's `_config.yml`:
-
-  ```yaml
-title: Your Name
-affiliation: Your Affiliation
-email: yourname (at) example.edu
-google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
-linkedin: https://www.linkedin.com/
-avatar: ./assets/img/avatar.png
-google_analytics: UA-111540567-4
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light.yyliu.net/
-remote_theme: yaoyao-liu/minimal-light
-  ```
-### Editing `index.md`
-
-Edit `index.md` and add your personal information (e.g. publications, research).
-
-### Stylesheet
-
-If you'd like to add your own custom styles:
-
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-
-    ```scss
-    ---
-    ---
-
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
-
-### Layouts
-
-If you'd like to change the theme's HTML layout:
-
-1. [Copy the original template](https://github.com/yaoyao-liu/minimal-light/blob/master/_layouts/homepage.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-2. Create a file called `/_layouts/homepage.html` in your site
-3. Paste the default layout content copied in the first step
-4. Customize the layout as you'd like
-
-## License
-
-This work is licensed under a [Creative Commons Zero v1.0 Universal](https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE) License.
-
-## Acknowledgements
-
-Our project uses the source code from the following repositories:
-
-* [pages-themes/minimal](https://github.com/pages-themes/minimal)
-
-* [orderedlist/minimal](https://github.com/orderedlist/minimal)
+Then visit `http://localhost:4000`.
