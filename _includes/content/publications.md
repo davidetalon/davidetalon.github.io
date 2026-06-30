@@ -1,4 +1,5 @@
 ## Selected Publications
+- **Personalizing MLLMs via Reinforced Multimodal Reference Game**, D. Das, *D. Talon*, Y. Wang,  M. Mancini, E. Ricci, *European Conference on Computer Vision*, 2026. [[Homepage](https://deepayan137.github.io/papers/conversational-personalization.html)] [[PDF](https://arxiv.org/abs/2606.28845)]
 
 - **How to Take a Memorable Picture? Empowering Users with Actionable Feedback**, 
 F. Laiti, *D. Talon*, J. Staiano, E. Ricci, *The IEEE/CVF Conference on Computer Vision and Pattern Recognition (Highlight)*, 2026. [[Homepage](https://laitifranz.github.io/MemCoach/)] [[PDF](https://arxiv.org/abs/2602.21877)] [[Code](https://github.com/laitifranz/MemCoach)] [[Data](https://huggingface.co/datasets/laitifranz/MemBench)]
