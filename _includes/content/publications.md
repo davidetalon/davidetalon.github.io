@@ -1,4 +1,6 @@
 ## Selected Publications
+- **Kinematics-Centric Continuous Sign Language Retrieval with Gloss-Guided Boundary-Aware Alignment**, C. Liu, K. Han, *D. Talon*, E. Ricci, N. Sebe, *ACM International Conference on Multimedia*, 2026. *Coming soon!*
+
 - **Personalizing MLLMs via Reinforced Multimodal Reference Game**, D. Das, *D. Talon*, Y. Wang,  M. Mancini, E. Ricci, *European Conference on Computer Vision*, 2026. [[Homepage](https://deepayan137.github.io/papers/conversational-personalization.html)] [[PDF](https://arxiv.org/abs/2606.28845)]
 
 - **How to Take a Memorable Picture? Empowering Users with Actionable Feedback**, 
